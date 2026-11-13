@@ -1,0 +1,4 @@
+Life:Bacteria,Archaea,Eukarya
+Eukarya:Animals,Plants,Fungi
+Animals:Chordates,Arthropods
+Chordates:Mammals,Birds,Reptiles
